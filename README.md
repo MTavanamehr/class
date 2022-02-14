@@ -1,4 +1,4 @@
-Hi Contech Unversity students and rest of the world.
+Hi Contech University students and rest of the world.
 
 These are the steps that we did in your lab 1
 
